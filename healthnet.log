@@ -1,0 +1,6 @@
+[05/May/2015 16:03:36] INFO [general:75] person has registered into HealthNet.
+[05/May/2015 17:01:05] INFO [general:59] Mario admitted user [<User: person>] to Mushroom Kingdom Hospital.
+[05/May/2015 17:01:22] INFO [general:93] Mario removed user [<User: person>] from Mushroom Kingdom Hospital.
+[05/May/2015 17:23:19] INFO [general:310] person created insurance with Health Care Gov for patient person.
+[05/May/2015 17:24:01] INFO [general:241] person created contact information.
+[05/May/2015 17:39:01] INFO [general:162] Mario removed appointment: "Tail Inspection" with doctor Mario and patient Bowser at 2015-05-05:12:00:00
